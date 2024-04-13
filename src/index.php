@@ -83,7 +83,7 @@ if ($route === "/") {
   <div class='bg-scratch p-5'>
     <center>
       <h1>ScratchPreview</h1>
-      <p>A special pages for Scratch projects</p>
+      <p>A custom pages for Scratch projects</p>
     </center>
   </div>
   <div class='container'><br><br>
